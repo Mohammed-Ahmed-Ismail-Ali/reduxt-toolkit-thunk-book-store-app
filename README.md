@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+*** README ***
+Download it and Run the JSON Server to check it <3.
+*** README ***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
